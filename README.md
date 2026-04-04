@@ -24,7 +24,8 @@ be aware of it might getting muted due to spamming if its used actively
 **why is it "gemini" if it dont run whit gemini?**  
 it originally ran whit gemini using playwright but it had alot errors and was very slow,  
 then after some while i swapped to groq whit llama 70B,  
-it got rate limited in few hours and cost 3 whole cents, after that i switched to llama 8B and added anti spam  
+it got rate limited in few hours and cost 3 whole cents, after that i switched to llama 8B and added anti spam   
+<sup><sup>(edit 04/04 22:41, its no loner gemini, its now dumfack)<sup><sup>  
 
 **does it spy on me?**  
 nah, the ai dont save any messages nor sends them anywhere  
