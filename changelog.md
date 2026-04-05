@@ -2,7 +2,9 @@
 added filters cause they are clearly required  
 added remote mute and remote kick that only developer can do incase if there are clear repeating offenses  
 created changelog  
-
+fixed bugs #0003, #0004, #0005 and #0006  
+added dev.test command, this is used by developers for testing, it can logs what is send to groq on current channel/dm ONLY and expires after 5 minutes, and can be used to make bot say anything for testing filters  
+added remote mute, allowing to mute specific userid for specified amounth of seconds  
 
 # 04/04/26  
 i added logs, and refined personality  
