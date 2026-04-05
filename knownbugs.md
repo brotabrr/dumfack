@@ -1,34 +1,34 @@
 ## High Priority 
 ### if there are any major High Priority bugs the bot might stay down until they are fixed, usually takes hours - day     
 ---  
-**#0006 bot can swear if you make your name something offensive and it replies to you**
+~~**#0006 bot can swear if you make your name something offensive and it replies to you**~~
 - example: naming yourself N-Word and replying to bot makes it say your display name (N-Word)
 - first noticed: 05/04/26  
-- fixed: NaN  
+- fixed: 05/04/26  
 - workaround: Do not use offensive names  
 - why: likely because the bot does only filter messages, not usernames. likely caused by rushed filtering, im sorry  
 
-**#0005 filters check every message for anything offensive, even if it was not pinged**
+~~**#0005 filters check every message for anything offensive, even if it was not pinged**~~
 - example: someone sends gif on server, bot says "*Sorry, I can't talk about or use any numbers right now.*"
 - first noticed: 05/04/26
-- fixed: NaN
+- fixed: 05/04/26
 - workaround: avoid saying anything offensive in server at all, currently this bypasses mod.config and is nearly impossible to avoid, only fix would be to make bot only be able to chat in specific channels with roles
 - why: this is likely because of rushed filters, im sorry
 
 ## Medium Priority  
 ### Medium Priority bugs are fixed if there is nothing else to add/fix, fixing might take few days to week  
 ---
-**#0004 bot says "*Sorry, I can't talk about or use any numbers right now.*" even if theres no clear numbers**  
+~~**#0004 bot says "*Sorry, I can't talk about or use any numbers right now.*" even if theres no clear numbers**~~  
 - example: user sends a tenor gif, and bot replies whit   "*Sorry, I can't talk about or use any numbers right now.*"  
 - first noticed: 04/04/26  
-- fixed: NaN  
+- fixed: 05/04/26  
 - workaround: avoid sending any gifs or any custom emojis/stickers or mentioning anyone  
 - why: every tenor gif link has number at end of it, the bot does not see the gif but insteat the link. and every custom emoji and sticker has ID that contains numbers  
 
-**#0003 bots own messages do not get sent as context in dm**
+~~**#0003 bots own messages do not get sent as context in dm**~~
 - example: user says something (eg "*hey how are you doing*"), bot replies and asks question (eg "*...do you want to see my dog?*"), user replies like if bot can read own messages (eg "*yeah sure!*"), bot replies whitout seeing own message about dog (eg "*hey im doing well...*")  
 - first noticed: 04/04/26
-- fixed: NaN
+- fixed: 05/04/26
 - workaround: Always give your own context from bot message, (eg :"*i would love to see your dog...*")   
 - why: i dont know, but i think its caused by dm logic, where you do not have to ping the bot to talk whit it  
 
