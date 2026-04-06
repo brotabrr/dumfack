@@ -21,6 +21,7 @@
 **#0008 if user has long mute and they get short mute the time is shortened**
 - example: user first gets manual 3600s mute, then they spam to get 300s mute, insteat of 3900s or same 3600s mute, their mute is 300s
 - first noticed: 06/04/26
+- fixed: NaN
 - workaround: NaN
 - why: this is likely because of quick remote mute coding i made last night, sorry.
 
