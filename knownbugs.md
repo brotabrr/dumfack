@@ -18,6 +18,13 @@
 ## Medium Priority  
 ### Medium Priority bugs are fixed if there is nothing else to add/fix, fixing might take few days to week  
 ---
+**#0007 bot responds in every channel despite configurations**
+- example: self explanatory
+- first noticed: 05/04/26
+- fixed: NaN
+- workaround: NaN
+- why: i honestly have no idea, i guess it might be cause of new logic made to allow bot seeing own messages in dm
+
 ~~**#0004 bot says "*Sorry, I can't talk about or use any numbers right now.*" even if theres no clear numbers**~~  
 - example: user sends a tenor gif, and bot replies whit   "*Sorry, I can't talk about or use any numbers right now.*"  
 - first noticed: 04/04/26  
