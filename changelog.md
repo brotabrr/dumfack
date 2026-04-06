@@ -4,6 +4,7 @@ added dev.del cmd that deletes message sent by bot, usually used on testing
 added user.regen cmd that regenerates bot message  
 added blackjack, you can use it by saying bj in dm or channel where bot is  
 now if you type `//` on front of a message it is completely ingored by bot always  
+fixed bug #0007
 
 # 05/04/26  
 added filters cause they are clearly required  
