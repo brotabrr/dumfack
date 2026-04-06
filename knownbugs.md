@@ -1,3 +1,5 @@
+# if you find any bugs please use `user.report.whatever you gotta report` command!
+
 ## High Priority 
 ### if there are any major High Priority bugs the bot might stay down until they are fixed, usually takes hours - day     
 ---  
@@ -49,6 +51,13 @@
 ## Low Priority  
 ### Low Priority bugs are usually not fixed for while, from weeks to few months, Low Priority bugs usually do not cause any harm or annoyance or are very easy to avoid   
 ---
+**#0009 bot replies if you use user.commands**
+- example: you use user.info, bot replies like if you messaged normally, and then tells the info
+- first noticed: 06/04/26
+- fixed: NaN
+- workaround: NaN, just ingore it
+- why: idk but it dont seem urgent
+
 **#0002 if you misspell bot command it says you dont have permission to use commands**  
 - example: you say `dumfack mod.setup #general` insteat of `dumfack mod.setup.add #general`  
 - first noticed: 04/04/26  
