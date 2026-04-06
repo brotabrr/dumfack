@@ -1,3 +1,10 @@
+# 06/04/26  
+added dev.test commands, used for testing possible future features    
+added dev.del cmd that deletes message sent by bot, usually used on testing  
+added user.regen cmd that regenerates bot message  
+added blackjack, you can use it by saying bj in dm or channel where bot is  
+now if you type `//` on front of a message it is completely ingored by bot always  
+
 # 05/04/26  
 added filters cause they are clearly required  
 added remote mute and remote kick that only developer can do incase if there are clear repeating offenses  
