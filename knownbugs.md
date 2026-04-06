@@ -20,6 +20,13 @@
 ## Medium Priority  
 ### Medium Priority bugs are fixed if there is nothing else to add/fix, fixing might take few days to week  
 ---
+**#0010 bots anti spam triggers even if you dont mention it, just by spamming in a server**  
+- example: user spams in server where bot is, bot says to wait before messaging againg  
+- first noticed: 06/04/26  
+- fixed: NaN  
+- workaround: do not spam in servers  
+- why: i have no clue but i guess its againg cuz of spaghetti code, sorry  
+
 **#0008 if user has long mute and they get short mute the time is shortened**
 - example: user first gets manual 3600s mute, then they spam to get 300s mute, insteat of 3900s or same 3600s mute, their mute is 300s
 - first noticed: 06/04/26
@@ -27,10 +34,10 @@
 - workaround: NaN
 - why: this is likely because of quick remote mute coding i made last night, sorry.
 
-**#0007 bot responds in every channel despite configurations**
+~~**#0007 bot responds in every channel despite configurations**~~
 - example: self explanatory
 - first noticed: 05/04/26
-- fixed: NaN
+- fixed: 06/04/26
 - workaround: NaN
 - why: i honestly have no idea, i guess it might be cause of new logic made to allow bot seeing own messages in dm
 
@@ -53,8 +60,8 @@
 ---
 **#0009 bot replies if you use user.commands**
 - example: you use user.info, bot replies like if you messaged normally, and then tells the info
-- first noticed: 06/04/26
-- fixed: NaN
+- first noticed: 06/04/26  
+- fixed: NaN  
 - workaround: NaN, just ingore it
 - why: idk but it dont seem urgent
 
