@@ -1,5 +1,6 @@
 # 08/04/26  
 <sup><sup>yesterday i could now add anything due to re-ordering project files and rewriting prompts, bot should be quicker, smarter and more efficient<sup><sup>  
+
 ive been working... alot  
 ive made websearch test better (moved from ddgs to compound-mini)  
 ive been adding prompts and adding functionality to change personalities,   
