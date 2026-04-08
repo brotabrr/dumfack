@@ -1,3 +1,12 @@
+# 08/04/26  
+<sup><sup>yesterday i could now add anything due to re-ordering project files and rewriting prompts, bot should be quicker, smarter and more efficient<sup><sup>  
+ive been working... alot  
+ive made websearch test better (moved from ddgs to compound-mini)  
+ive been adding prompts and adding functionality to change personalities,   
+ive made modular personalities  
+ive made more dev cmds (give/remove premium, remove mute, see mutes persons...)  
+ive fixed like dozen bugs caused by yesterdays reorder  
+
 # 06/04/26  
 added dev.test commands, used for testing possible future features    
 added dev.del cmd that deletes message sent by bot, usually used on testing  
