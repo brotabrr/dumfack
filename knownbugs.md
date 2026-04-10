@@ -1,4 +1,8 @@
-# if you find any bugs please use `user.report.whatever you gotta report` command!
+# if you find any bugs please use `user.report.whatever you gotta report` command!  
+current bugs: 6   
+total bugs: 15  
+fixed bugs: 9  
+this only tracks bugs found on puplic test builds, not dev builds  
 
 ## High Priority 
 ### if there are any major High Priority bugs the bot might stay down until they are fixed, usually takes hours - day     
