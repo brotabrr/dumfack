@@ -20,10 +20,10 @@
 ## Medium Priority  
 ### Medium Priority bugs are fixed if there is nothing else to add/fix, fixing might take few days to week  
 ---
-**#0011 bot does not see its own messages in servers**
+~~**#0011 bot does not see its own messages in servers**~~
 - example: self explanatory
 - first noticed: 06/04/26
-- fixed: NaN
+- fixed: 10/04/26
 - workaround: mention what bot has done in past message, eg: "oh yeah, thanks i would love to see your puppy!"
 - why: again, i have no fucking idea
 
@@ -34,10 +34,10 @@
 - workaround: do not spam in servers  
 - why: i have no clue but i guess its againg cuz of spaghetti code, sorry  
 
-**#0008 if user has long mute and they get short mute the time is shortened**
+~~**#0008 if user has long mute and they get short mute the time is shortened**~~
 - example: user first gets manual 3600s mute, then they spam to get 300s mute, insteat of 3900s or same 3600s mute, their mute is 300s
 - first noticed: 06/04/26
-- fixed: NaN
+- fixed: 10/04/26
 - workaround: NaN
 - why: this is likely because of quick remote mute coding i made last night, sorry.
 
@@ -65,17 +65,17 @@
 ## Low Priority  
 ### Low Priority bugs are usually not fixed for while, from weeks to few months, Low Priority bugs usually do not cause any harm or annoyance or are very easy to avoid   
 ---
-**#0012 black jack works in any channel**
+~~**#0012 black jack works in any channel**~~
 - example: user uses `bj` in channel where bot has been configured to not chat in
 - first noticed: 07/04/26
-- fixed: NaN
+- fixed: 10/04/26
 - workaround: dont use `bj` inteonally on channels / servers where its not allowed, if you are a mod you can enforce your server rules
 - why: maybe because black jack is new feature that did not count as command nor message
 
-**#0009 bot replies if you use user.commands**
+~~**#0009 bot replies if you use user.commands**~~
 - example: you use user.info, bot replies like if you messaged normally, and then tells the info
 - first noticed: 06/04/26  
-- fixed: NaN  
+- fixed: 10/04/26  
 - workaround: NaN, just ingore it
 - why: idk but it dont seem urgent
 
