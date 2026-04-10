@@ -20,6 +20,28 @@
 ## Medium Priority  
 ### Medium Priority bugs are fixed if there is nothing else to add/fix, fixing might take few days to week  
 ---
+
+**0015 if premium user does `premium.info.personality` it shows premium AND free personalities**  
+- example: self explanatory  
+- first noticed 10/04/26  
+- fixed: NaN  
+- workaround: none, premium is not obtainable anyway.  
+- why: early testing logic  
+
+**0014 if normal user does `premium.info.personality` it only shows free personalities**  
+- example: self explanatory  
+- first noticed: 10/04/26  
+- fixed: NaN  
+- workaround: none, premium is not obtainable anyway.  
+- why: early testing logic  
+
+**0013 if you mention bot it dont show commands**
+- example: you say "@dumfack user.info", bot says "uhh user.info... youre evil harri... uwu >///<"  
+- first noticed: 10/04/26  
+- fixed: NaN  
+- workaround: always reply to bot, dont ping   
+- why: it might be new logic i did during dev-testing  
+
 ~~**#0011 bot does not see its own messages in servers**~~
 - example: self explanatory
 - first noticed: 06/04/26
