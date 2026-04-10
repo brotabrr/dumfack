@@ -2,7 +2,8 @@
 finished re-ordering and rewriting prompts   
 bots prompts now use ~15% less tokens  
 made personalities free for everyone and some premium  
-fixed multiple bugs, both old and ones made during developement builds (i did not keep track of dev bugs)
+fixed multiple bugs, both old and ones made during developement builds (i did not keep track of dev bugs)  
+added dev test for TTS and picture recognition 
 
 # 08/04/26  
 <sup><sup>yesterday i could now add anything due to re-ordering project files and rewriting prompts, bot should be quicker, smarter and more efficient<sup><sup>  
