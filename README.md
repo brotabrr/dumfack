@@ -69,5 +69,7 @@ if it lasts for long time contact dev (yourlocalaipotato)
 **the bot wont join server**  
 it takes sometime to join, and the bot may decline joining if it thinks its for personal gain, eg J4J or invite rewards  
 
+**MAKE SURE TO ALSO CHECK KNOWNBUGS PAGE!!**
+
 **the bot thinks that they/someone is someone else**  
 this is normal, it hapens because  its not meant for discord and past conversation is translated roughly to keep bot free and fast for everyone
