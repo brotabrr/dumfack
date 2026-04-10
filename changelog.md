@@ -1,3 +1,9 @@
+# 10/04/26
+finished re-ordering and rewriting prompts   
+bots prompts now use ~15% less tokens  
+made personalities free for everyone and some premium  
+fixed multiple bugs  
+
 # 08/04/26  
 <sup><sup>yesterday i could now add anything due to re-ordering project files and rewriting prompts, bot should be quicker, smarter and more efficient<sup><sup>  
 
