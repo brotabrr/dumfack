@@ -3,7 +3,7 @@ finished re-ordering and rewriting prompts
 bots prompts now use ~15% less tokens  
 made personalities free for everyone and some premium  
 fixed multiple bugs, both old and ones made during developement builds (i did not keep track of dev bugs)  
-added dev test for TTS and picture recognition 
+added dev test for TTS and picture recognition   
 added premium test, premium users now can send images and have extra personalities  
 
 # 08/04/26  
