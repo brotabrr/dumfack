@@ -8,7 +8,7 @@ this only tracks bugs found on puplic test builds, not dev builds
 ### if there are any major High Priority bugs the bot might stay down until they are fixed, usually takes hours - day     
 ---  
 
-**0016 dev accounts cannot use dev commands if they have premium**
+**#0016 dev accounts cannot use dev commands if they have premium**
 - example: if dev says dev.info or dev.mute the bot ansawers normally, it should show the cmds  
 - first noticed: 11/04/26  
 - fixed: NaN  
