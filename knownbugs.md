@@ -1,7 +1,7 @@
 # if you find any bugs please use `user.report.whatever you gotta report` command!  
 current bugs: 6   
-total bugs: 15  
-fixed bugs: 9  
+total bugs: 16 
+fixed bugs: 10  
 this only tracks bugs found on puplic test builds, not dev builds  
 
 ## High Priority 
@@ -11,7 +11,7 @@ this only tracks bugs found on puplic test builds, not dev builds
 **#0016 dev accounts cannot use dev commands if they have premium**
 - example: if dev says dev.info or dev.mute the bot ansawers normally, it should show the cmds  
 - first noticed: 11/04/26  
-- fixed: NaN  
+- fixed: 11/04/26  
 - workaround: Disabling bot till fixed  
 - why: checking premium status before dev status
 
