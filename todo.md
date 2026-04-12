@@ -8,7 +8,7 @@
  - puplic state  
 free  
 - current state  
-not developed  
+Dev test   
 - other  
 NaN  
 
@@ -35,9 +35,11 @@ it allows you to create/select custom personalities so that the bot acts differe
 free: whit few premade prompts  
 premium: custom prompts, all pre-made prompts available, longer responces, server wide personality (if youre owner/adming)  
 - current state  
-dev test  
+premium: 17 personalities 
+free: 8 personalities 
+use `user.personality` to see them. use `user.personality.personality_name` to choose it
 - other  
-NaN  
+currently on developement: making personalities save on server restart 
 
 ---
 **memory**
@@ -50,6 +52,20 @@ free: ~50 tokens worth of memory, no auto memorize, single "card"
 premium: ~500 tokens worth of memory per "card", multiple "cards" allowed to be created  
 (cards are like memory cards or usb sticks, they can fit little bit data at once. you can swap cards to swap memory, (eg one for hobbies, one for free time and one for random facts))  
 - current state  
+NaN  
+- other  
+NaN  
+
+---
+**website**
+- what is it  
+it will likely be to test bot, have info, help, etc 
+- example  
+you will be able to try bot and personalities on website easily, and change personalities whit gui  
+if you authorize some app on your account you can easily edit personality, memories and config servers 
+- puplic state  
+website free for everyone.  
+- current state 
 NaN  
 - other  
 NaN  
