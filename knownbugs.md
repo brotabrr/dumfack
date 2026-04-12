@@ -1,6 +1,6 @@
 # if you find any bugs please use `user.report.whatever you gotta report` command!  
 current bugs: 5   
-total bugs: 16 
+total bugs: 16   
 fixed bugs: 11  
 this only tracks bugs found on puplic test builds, not dev builds  
 
