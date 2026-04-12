@@ -1,7 +1,7 @@
 # if you find any bugs please use `user.report.whatever you gotta report` command!  
-current bugs: 6   
+current bugs: 5   
 total bugs: 16 
-fixed bugs: 10  
+fixed bugs: 11  
 this only tracks bugs found on puplic test builds, not dev builds  
 
 ## High Priority 
@@ -40,10 +40,10 @@ this only tracks bugs found on puplic test builds, not dev builds
 - workaround: none, premium is not obtainable anyway.  
 - why: early testing logic  
 
-**0014 if normal user does `premium.info.personality` it only shows free personalities**  
+~~**0014 if normal user does `premium.info.personality` it only shows free personalities**~~  
 - example: self explanatory  
 - first noticed: 10/04/26  
-- fixed: NaN  
+- fixed: 12/04/26    
 - workaround: none, premium is not obtainable anyway.  
 - why: early testing logic  
 
