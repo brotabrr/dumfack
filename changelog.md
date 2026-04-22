@@ -1,3 +1,10 @@
+# 22/04/26
+im sorry, no updates for nearly 2 weeks, this is cause of multiple reasons:  
+- i worked few days on [website](https://dumfack.brotabrr.workers.dev/)  
+- i got school  
+- my family got very sick recently
+- i kinda lost motivation cuz no one really used my bot and it was just quick niche (if it gets usage i will update it tho)
+
 # 10/04/26
 finished re-ordering and rewriting prompts   
 bots prompts now use ~15% less tokens  
