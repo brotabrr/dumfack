@@ -1,3 +1,9 @@
+# 27/04/26
+- added regen button to [website](https://dumfack.brotabrr.workers.dev/) 
+- added personality configurations to [website](https://dumfack.brotabrr.workers.dev/) 
+- added dev test for 70B model
+- more coming soon...
+
 # 22/04/26
 im sorry, no updates for nearly 2 weeks, this is cause of multiple reasons:  
 - i worked few days on [website](https://dumfack.brotabrr.workers.dev/)  
