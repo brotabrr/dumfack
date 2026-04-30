@@ -1,3 +1,21 @@
+# 30/04/26
+- basically rewrote entire [website](https://dumfack.brotabrr.workers.dev/)...  
+- updated ui... alot  
+- - now has outline on personalities, color depends from status (premium, free, dev). 
+- - chats now show latest message
+- - added branching stuff
+- - added settings
+- - added alot of animations
+- added experiements, these are toggles you can switch to try possible future features  
+- - these include chat formatting, edit msg, images, msg tree and temp slider  
+- - (theres lots of bugs still, some are either permanently on or off. sorry)  
+- added settings... yay
+- - you can now recover deleted chats, change cooldown between letters that ai sends, toggle experiements 
+- added chat branching, you can now go to anywhere on chat you want, every time you regen, edit, or somehow manipualate chat it makes new timeline
+- - IF YOU CANNOT ACCESS YOUR OLD CHATS, THEY ARE NOT DELETED, JUST UNAVAILABLE TEMPORALLY!! WILL BE FIXED SOON
+- basically rewrote half of ui and code...
+
+
 # 27/04/26
 - added regen button to [website](https://dumfack.brotabrr.workers.dev/) 
 - added personality configurations to [website](https://dumfack.brotabrr.workers.dev/) 
