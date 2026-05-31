@@ -4,10 +4,16 @@
 
 **so how do i get it?**   
 theres few options   
+Dumfack Lite (or legacy):  
 1 send it a friend request on discord (brotabrr.dev.gemini)  
 2 join my [server](https://discord.gg/SG8STWeHaw) and try it out in geminis own channel  
 3 use it on any server where it is in aready  
 4 add it to your own server, dm it the invite link and wait for it to join! 
+
+Dumfack: 
+1 add it to your [server or your apps](https://discord.com/oauth2/authorize?client_id=1510277216242766084)  
+2 join my [server](https://discord.gg/SG8STWeHaw) and try it out in geminis own channel  
+3 use it in any server where it is in aready
 
    
 **how do i use it?**  
@@ -16,9 +22,9 @@ its very simple, DM it, Reply to its message or ping it on any server it is on a
 **thats it?**  
 basically yeah!  
 theres few commands tho but you likely wont need them much  
-you can view them by pinging the bot and saying `mod.info` or `user.info`  
+you can view them by pinging the bot and saying `mod.info` or `user.info`, or if you are using non lite use slash commands
 also the bot replies to every message where it got replied or pinged, aslong as it has chat permission.   
-be aware of it might getting muted due to spamming if its used actively  
+be aware of it might getting muted due to spamming if its used actively  (non lite requires "bypass slowmode" permission)
 
 ## FAQ  
 **why is it "gemini" if it dont run whit gemini?**  
@@ -26,14 +32,16 @@ it originally ran whit gemini using playwright but it had alot errors and was ve
 then after some while i swapped to groq whit llama 70B,  
 it got rate limited in few hours and cost 3 whole cents, after that i switched to llama 8B and added anti spam   
 <sup><sup>(edit 04/04 22:41, its no loner gemini, its now dumfack)<sup><sup>  
+<sup><sup>(edit 31/05 16:32, its no loner groq, its now gemini again)<sup><sup>   
 
 **does it spy on me?**  
 nah, the ai dont save any messages nor sends them anywhere  
-only time when its send somewhere is if you do report or suggestion command  
+only time when its send somewhere is if you do report or suggestion command    
 
 **why is it so dumb?**  
 i honestly dont know, its very dumb considering its 8B model  
 it might be cause its not designed to be on discord and its unsure of who its talking to, who replied to who and it only has context window of 7 messages.  
+(non lite is using smarter distilled model, either gemma 4 E2B (primary), Gemini 3.1 Flash Lite (secondary), or Gemma 4 31B
   
 **is it free?**  
 YES! its completely free for everyone whit basically infinite messages  
