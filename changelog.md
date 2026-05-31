@@ -1,3 +1,20 @@
+# 30/05/26
+- made dumfack a real [bot](https://discord.com/oauth2/authorize?client_id=1510277216242766084)  
+- remade old dumfack selfbot to dumfack lite
+- switched from Gemini 3.1 Flash Lite multi modal image description llama-4-scout-17b-16e-instruct
+- made bot send multiple messages at once to feel more human
+- added slash commands
+- added typing animation and realistic humane stops
+- removed number and hard-coded word filters
+
+# 27/05/26 (possibly wrong date)  
+- done some prompt engineering to dumfack (it now can help with commands and knows info about its dev)  
+- done lots of testing  
+
+# 26/05/26 (possibly wrong date)  
+- tested dumfack with gemini model  
+- made dumfack temporalily use Gemini 3.1 Flash Lite for testing  
+
 # 30/04/26
 - basically rewrote entire [website](https://dumfack.brotabrr.workers.dev/)...  
 - updated ui... alot  
@@ -14,7 +31,6 @@
 - added chat branching, you can now go to anywhere on chat you want, every time you regen, edit, or somehow manipualate chat it makes new timeline
 - - IF YOU CANNOT ACCESS YOUR OLD CHATS, THEY ARE NOT DELETED, JUST UNAVAILABLE TEMPORALLY!! WILL BE FIXED SOON
 - basically rewrote half of ui and code...
-
 
 # 27/04/26
 - added regen button to [website](https://dumfack.brotabrr.workers.dev/) 
