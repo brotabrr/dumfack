@@ -2,6 +2,15 @@
 - refined ui even more
 - fixed bug where if you pinged bot before saying command, it did not register as command
 - - bot now should be able to use text based commands no matter do you ping or not, and where you ping
+- added new personalities
+- - `for roleplay`
+- - - makes long and detailed interactions and messages for roleplay
+- - `masochist`
+- - - its well... it loves pain
+- - `neko`
+- - - half human half cat
+- - `ace`
+- - - asexual girl who is obsessed with bread
 
 # 21/06/26
 - refined ui
