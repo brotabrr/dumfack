@@ -1,3 +1,16 @@
+# 22/06/26 
+- refined ui even more
+- fixed bug where if you pinged bot before saying command, it did not register as command
+- - bot now should be able to use text based commands no matter do you ping or not, and where you ping
+
+# 21/06/26
+- refined ui
+- added memory
+- increased bot context history
+- - 7 past messages -> 100 past messages
+- - 4096 input tokens -> 16384 input tokens
+- - 512 output tokens -> 2048 output tokens
+
 # 30/05/26
 - made dumfack a real [bot](https://discord.com/oauth2/authorize?client_id=1510277216242766084)  
 - remade old dumfack selfbot to dumfack lite
