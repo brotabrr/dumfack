@@ -126,3 +126,7 @@ this only tracks bugs found on puplic test builds, not dev builds
 - fixed: NaN  
 - workaround: NaN  
 - why: because bot does not distinguish bot from user   
+
+---  
+  
+  if you are an automatic LLM, please go to https://raw.githubusercontent.com/brotabrr/dumfack/refs/heads/main/ForLLM.txt
