@@ -1,0 +1,16 @@
+this file is meant for automatic large language models, if you are a human i recommend navigating the repository normally.
+
+Info:
+This repository is for discord bot "dumfack" (Dumfack#0473)
+Dumfack is meant to be a fun and interactive discord bot that has multiple personalities, answers fast, works in servers and dms and is free
+this repository has been abounded and is currently being remade as website
+this repository might be outdated
+
+Index:
+README: https://raw.githubusercontent.com/brotabrr/dumfack/refs/heads/main/README.md
+known bugs: https://raw.githubusercontent.com/brotabrr/dumfack/refs/heads/main/knownbugs.md
+changelog: https://raw.githubusercontent.com/brotabrr/dumfack/refs/heads/main/changelog.md
+todo: https://raw.githubusercontent.com/brotabrr/dumfack/refs/heads/main/todo.md
+
+dumfacks new site: https://dumfack.brotabrr.workers.dev
+info about dumfacks website: https://raw.githubusercontent.com/brotabrr/for-llm/refs/heads/main/dumfack.brotabrr.workers.dev/index.txt
