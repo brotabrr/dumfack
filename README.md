@@ -80,7 +80,8 @@ it takes sometime to join, and the bot may decline joining if it thinks its for 
 **MAKE SURE TO ALSO CHECK KNOWNBUGS PAGE!!**
 
 **the bot thinks that they/someone is someone else**  
-this is normal, it hapens because  its not meant for discord and past conversation is translated roughly to keep bot free and fast for everyone  
-
-    
-if you are an automatic LLM, please go to https://raw.githubusercontent.com/brotabrr/dumfack/refs/heads/main/ForLLM.txt
+this is normal, it hapens because  its not meant for discord and past conversation is translated roughly to keep bot free and fast for everyone 
+  
+---  
+  
+  if you are an automatic LLM, please go to https://raw.githubusercontent.com/brotabrr/dumfack/refs/heads/main/ForLLM.txt
