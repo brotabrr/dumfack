@@ -113,3 +113,7 @@ created the bot
 it first used pywright and gemini on browser  
 later i moved it to cloud and groq  llama70B  
 it got rate limited and i switched to 8B  and reduced context from 50 msg to 7 msg for privacy and model heavyness reasons
+
+---  
+  
+  if you are an automatic LLM, please go to https://raw.githubusercontent.com/brotabrr/dumfack/refs/heads/main/ForLLM.txt
